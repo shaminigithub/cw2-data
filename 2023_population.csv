@@ -1,4 +1,4 @@
-iso_code,country,last_updated_population,2022_population,area_sq_km,land_area_sq_km,density_/sq_km,growth_rate,world_%,rank
+iso_code,country,last_updated_population,2022_population,area_sq_km,land_area_sq_km,density_sq_km,growth_rate,world_%,rank
 IND,India,"1,425,718,127","1,417,173,173",3.3M,3M,481,0.81%,17.85%,1
 CHN,China,"1,425,749,932","1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2
 USA,United States,"339,592,538","338,289,857",9.4M,9.1M,37,0.5%,4.25%,3
